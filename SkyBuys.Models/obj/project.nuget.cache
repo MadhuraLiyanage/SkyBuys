@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0TFisOUglT0m1BoKBlMvktTKl5/bYDYBIFb4DU0qn6UEZztKO8QSlmoEf1SObWgN8WUGIC65pnSW0h5iHaqtUA==",
+  "success": true,
+  "projectFilePath": "D:\\Work Folders\\Developments\\Skybuys\\SkyBuys.Models\\SkyBuys.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\madhural\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.9\\microsoft.entityframeworkcore.abstractions.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

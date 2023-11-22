@@ -1,0 +1,12 @@
+D:\Work Folders\Developments\Skybuys\SkyBuys.Utilities\bin\Debug\net6.0\SkyBuys.Utilities.deps.json
+D:\Work Folders\Developments\Skybuys\SkyBuys.Utilities\bin\Debug\net6.0\SkyBuys.Utilities.dll
+D:\Work Folders\Developments\Skybuys\SkyBuys.Utilities\bin\Debug\net6.0\SkyBuys.Utilities.pdb
+D:\Work Folders\Developments\Skybuys\SkyBuys.Utilities\obj\Debug\net6.0\SkyBuys.Utilities.csproj.AssemblyReference.cache
+D:\Work Folders\Developments\Skybuys\SkyBuys.Utilities\obj\Debug\net6.0\SkyBuys.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work Folders\Developments\Skybuys\SkyBuys.Utilities\obj\Debug\net6.0\SkyBuys.Utilities.AssemblyInfoInputs.cache
+D:\Work Folders\Developments\Skybuys\SkyBuys.Utilities\obj\Debug\net6.0\SkyBuys.Utilities.AssemblyInfo.cs
+D:\Work Folders\Developments\Skybuys\SkyBuys.Utilities\obj\Debug\net6.0\SkyBuys.Utilities.csproj.CoreCompileInputs.cache
+D:\Work Folders\Developments\Skybuys\SkyBuys.Utilities\obj\Debug\net6.0\SkyBuys.Utilities.dll
+D:\Work Folders\Developments\Skybuys\SkyBuys.Utilities\obj\Debug\net6.0\refint\SkyBuys.Utilities.dll
+D:\Work Folders\Developments\Skybuys\SkyBuys.Utilities\obj\Debug\net6.0\SkyBuys.Utilities.pdb
+D:\Work Folders\Developments\Skybuys\SkyBuys.Utilities\obj\Debug\net6.0\ref\SkyBuys.Utilities.dll

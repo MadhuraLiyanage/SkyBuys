@@ -1,0 +1,12 @@
+D:\Work Folders\Developments\Skybuys\SkyBuys.Enum\bin\Release\net6.0\SkyBuys.Enum.deps.json
+D:\Work Folders\Developments\Skybuys\SkyBuys.Enum\bin\Release\net6.0\SkyBuys.Enum.dll
+D:\Work Folders\Developments\Skybuys\SkyBuys.Enum\bin\Release\net6.0\SkyBuys.Enum.pdb
+D:\Work Folders\Developments\Skybuys\SkyBuys.Enum\obj\Release\net6.0\SkyBuys.Enum.csproj.AssemblyReference.cache
+D:\Work Folders\Developments\Skybuys\SkyBuys.Enum\obj\Release\net6.0\SkyBuys.Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work Folders\Developments\Skybuys\SkyBuys.Enum\obj\Release\net6.0\SkyBuys.Enum.AssemblyInfoInputs.cache
+D:\Work Folders\Developments\Skybuys\SkyBuys.Enum\obj\Release\net6.0\SkyBuys.Enum.AssemblyInfo.cs
+D:\Work Folders\Developments\Skybuys\SkyBuys.Enum\obj\Release\net6.0\SkyBuys.Enum.csproj.CoreCompileInputs.cache
+D:\Work Folders\Developments\Skybuys\SkyBuys.Enum\obj\Release\net6.0\SkyBuys.Enum.dll
+D:\Work Folders\Developments\Skybuys\SkyBuys.Enum\obj\Release\net6.0\refint\SkyBuys.Enum.dll
+D:\Work Folders\Developments\Skybuys\SkyBuys.Enum\obj\Release\net6.0\SkyBuys.Enum.pdb
+D:\Work Folders\Developments\Skybuys\SkyBuys.Enum\obj\Release\net6.0\ref\SkyBuys.Enum.dll
